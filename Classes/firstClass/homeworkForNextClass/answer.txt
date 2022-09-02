@@ -1,0 +1,33 @@
+ex1
+passo 1: sair de casa
+passo 2: ir ao banco
+passo 3: entrar no banco
+passo 4: se dirigir ao caixa
+passo 5: selecionar a opção de sacar dinheiro
+passo 6: inserir seus dados bancais
+passo 7: selecionar o valor a sacar
+passo 8: inserir sua senha
+passo 9: receber o dinheiro
+passo 10: sair do banco
+passo 11: voltar para casa
+
+ex2
+passo 1: pegar a panela
+passo 2: pegar o azeite
+passo 3: colocar o azeite na panela
+passo 4: ir ao fogão
+passo 5: ligar o fogao
+passo 6: colocar a panela no fogao
+passo 7: pegar o ovo
+passo 8: quebrar o ovo encima da panela
+passo 9: esperar o ovo endurecer ou fritar
+passo 10: pegar um prato
+passo 11: tirar o ovo da panela e colocar no prato
+passo 12: desligar o fogao
+passo 13: levar a panela para a louça
+passo 14: lavar a panela 
+passo 15: comer o delicioso ovo
+
+ex3
+
+

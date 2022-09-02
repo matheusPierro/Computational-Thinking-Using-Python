@@ -1,0 +1,62 @@
+Computacional thinkinfg unsing python
+Conceitos iniciais e  introdução a logica de programação
+
+pensar como um computador
+tudo que o computadpr sabe foi alguém que ensinou
+Como computador realiza tarefas? ele executa instruções bem definidas passadas por meio de uma linguagem de programação
+
+entrada-> processamento-> saida
+
+toda programação se resume a dar ordens ao processador
+
+lógica 
+ciencia dos principios formais do raciocinio
+todos tem capacidade de raciocinio, porem é necessário representa-la formalmente. 
+a logica estuda a organização do pensamento ou raciocinio estruturado
+
+logica de programação é a base para o desenvolvimento de todo e qualquer programa de computador
+representado por meio de algoritmos
+
+algoritmos
+sequencia finita de instruções que não pode ter duplo sentido e que pode ser executada mecanicamente
+como uma receita de bolo, um passo a passo, com intruções detalhadas sobre como executar determindad tarefa.
+ex Torre de hanoi (2elevado ao n de aneis -1)
+
+fasses para montar um algoritmo com solucao computacional:
+entrada-> processamento-> saida
+ex soma de 2 numeros
+entrada: definir n1 e n2
+processamento: fazer a soma
+saida: mostrar o resultado da soma 
+
+tipos de algoritmos
+não estruturados: usados para descrevr soluções cotidianos e que não necessariamente podem ser executado por maquinas 
+estruturados: instruções detalhadas considerando que as mesmas serao executadas por maquinas 
+
+formas de representação de algoritmos
+diagram de fluxo
+pseudocódigo
+
+tipos de dados 
+os dados são reprentaç~oes de informações que os seres humanso manipulam, que devem ser abstraídos para serem processados por um computador
+3 tipos basicos:
+-númericos(inteiros ou reais)
+-caracteres
+-lógicos
+
+
+variaveis(indetificador)
+é tudo aquilo que é sujeito a variações que é incetto, instavel ou inconstante
+como referenciar a armazenar os daddos armazenaddos em um computador?
+Os valores são aramazenados na memroria 
+cada tipo de dado diferente ocupa um numero especifico de bytes na memoria 
+para recuperar um valor é necessario saber o seu tipo e o endereço do byte inicial ocupado na memoria 
+
+de forma geral, podemos dizer que uma celula de memoria esta associada a um identificador
+variavel é uma entidadde que guarda valores que podem ser alterados no decorrer deum algoritmo
+
+embora uma variavel possa assumir valores diferentes , ela só pode aramazenar um valor a cada instante
+
+uma variavel nao pode aramazenar um valor de tipo de dado diferente daquele para qual foi criada
+
+Uma variavel deve possuir nome e este é utilizado para sua identificação e representação dentro de um programa.
