@@ -1,14 +1,5 @@
-
-
-
-from operator import length_hint
-
-
-def dizNome(nome):
-    print(nome)
-
-def soletraNome(nome):
-    for contLetra in range(0, length_hint(nome)):
-        print(nome[contLetra])
-
-print(soletraNome(dizNome("Thiago")))
+for seq in range(1,31):
+    if (seq % 4 == 0):
+        print("PIM")
+    else:
+        print(seq)
